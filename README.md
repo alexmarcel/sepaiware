@@ -1,6 +1,6 @@
-download and copy all files. edit .bat first 3 lines.
+download and copy all files. edit .bat line 4 and line 7. save to usb.
 
-1. copy all to C, run .bat as admin
+1. copy all from usb to C, run .bat as admin
 2. change hostname
 3. restart
 4. run .bat as admin after restart
